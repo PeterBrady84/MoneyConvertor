@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="money_image">Money Converter Image</string>
+    <string name="cents">Cents</string>
+    <string name="convert_button">Convert</string>
+    <string name="empty_value">Required Field!</string>
+    <string name="non_numeric">Numeric values only!</string>
+    <string name="invalid_value">Value must be > than 0!</string>
+</resources>
